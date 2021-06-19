@@ -11,6 +11,6 @@ Official Website: http://www.ug2challenge.org/
 - Finally the image is input to the TinaFace model. More information can be found here https://github.com/Media-Smart/vedadet/tree/main/configs/trainval/tinaface. The implementation of this step can be in `Tina_Nikhil.ipynb`.
 
 ## Postscript
-This network after training for ~ 40 hours(which is the 20% of the total training time according to the authors of tinaFace) gave a mAP of 0.58. The best model in the challange gave close to 0.83.
-I couldn't Tain the model completely because of the lack of resources.
+This network after training for ~ 40 hours(which is the 20% of the total training time according to the authors of tinaFace) gave a mAP of 0.58. The best model in the challange gave close to 0.74 [leaderboard](http://cvpr2021.ug2challenge.org/leaderboard21_t1.html).
+I couldn't Tain the model completely because of the lack of resources. Feel free to use the codes if you have multiple Good GPUs.
 
